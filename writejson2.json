@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Alice",
+        "age": 23,
+        "languages": "English"
+    },
+    {
+        "name": "Alice",
+        "age": 23,
+        "languages": "Finnish"
+    }
+]
